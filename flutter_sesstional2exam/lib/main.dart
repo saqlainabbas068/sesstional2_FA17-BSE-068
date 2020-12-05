@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'Splash.dart';
-import 'simple.dart';
+import 'Simple.dart';
 import 'Hard.dart';
 
 
