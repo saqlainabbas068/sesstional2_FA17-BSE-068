@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'Splash.dart';
-import 'Simple.dart';
+import 'simple.dart';
 import 'Hard.dart';
+
+
 
 void main() {
   runApp(SplashScreen());
